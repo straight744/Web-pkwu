@@ -1,5 +1,4 @@
-# Web-pkwu
-<!DOCTYPE html>
+
 <html>
 <head>
 <title>Blog Kelompok</title>
